@@ -1,0 +1,3 @@
+G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\UnitTestApi\obj\Debug\netcoreapp2.2\UnitTestApi.csproj.CoreCompileInputs.cache
+G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\UnitTestApi\obj\Debug\netcoreapp2.2\UnitTestApi.AssemblyInfoInputs.cache
+G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\UnitTestApi\obj\Debug\netcoreapp2.2\UnitTestApi.AssemblyInfo.cs
