@@ -14,12 +14,14 @@ namespace Services.Repository
     {
         private readonly ILogger _log;
         private readonly IMapper _mapper;
-        private readonly IGenericRepository<TblMasterAlbum> _albumRepo;       
-        public AlbumDetails( ILogger<AlbumDetails> log, IMapper mapper, IGenericRepository<TblMasterAlbum> albumRepo)
+        private readonly IGenericRepository<TblMasterAlbum> _albumRepo;
+        private readonly IUnitOfWork _IUnitOfWork;
+        public AlbumDetails( ILogger<AlbumDetails> log, IMapper mapper, IGenericRepository<TblMasterAlbum> albumRepo, IUnitOfWork IUnitOfWork)
         {
             _mapper = mapper;        
             _log = log;
-            _albumRepo = albumRepo;            
+            _albumRepo = albumRepo;
+            _IUnitOfWork = IUnitOfWork;
         }
         public async Task<ResponseViewModel> GetAlbumDetails(IdViewModel idViewModel)
         {

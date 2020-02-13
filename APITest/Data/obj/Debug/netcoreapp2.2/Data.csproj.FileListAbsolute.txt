@@ -20,3 +20,14 @@ G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\D
 G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.pdb
 G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.dll
 G:\PersonalGitHubWork\DBFirstInASPCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.pdb
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.dll
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\bin\Debug\netcoreapp2.2\Data.pdb
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.dll
+G:\PersonalGitHubWork\CodeFirstInAspCore2.2\APITest\Data\obj\Debug\netcoreapp2.2\Data.pdb

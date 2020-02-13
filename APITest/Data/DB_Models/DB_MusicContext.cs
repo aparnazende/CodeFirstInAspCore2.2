@@ -22,7 +22,7 @@ namespace Data.DB_Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                // optionsBuilder.UseSqlServer("Server=DESKTOP-4IVT239;initial catalog=DB_Music;persist security info=True;user id=sa;password=Admin@123;MultipleActiveResultSets=True;");
+                //optionsBuilder.UseSqlServer("Server=DESKTOP-4IVT239;initial catalog=DB_Music;persist security info=True;user id=sa;password=Admin@123;MultipleActiveResultSets=True;");
                 optionsBuilder.UseSqlServer(AppSettingsViewModels.ConnectionString);
             }
         }

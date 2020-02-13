@@ -11773,11 +11773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\UnitTestApi\\UnitTestApi.csproj",
+      "projectUniqueName": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\UnitTestApi\\UnitTestApi.csproj",
       "projectName": "UnitTestApi",
-      "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\UnitTestApi\\UnitTestApi.csproj",
+      "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\UnitTestApi\\UnitTestApi.csproj",
       "packagesPath": "C:\\Users\\sachin\\.nuget\\packages\\",
-      "outputPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\UnitTestApi\\obj\\",
+      "outputPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\UnitTestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11796,14 +11796,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\APITest\\APITest.csproj": {
-              "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\APITest\\APITest.csproj"
+            "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\APITest\\APITest.csproj": {
+              "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\APITest\\APITest.csproj"
             },
-            "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj": {
-              "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj"
+            "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj": {
+              "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj"
             },
-            "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Services\\Services.csproj": {
-              "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Services\\Services.csproj"
+            "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Services\\Services.csproj": {
+              "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Services\\Services.csproj"
             }
           }
         }

@@ -17,11 +17,13 @@ namespace APITest.Controllers
     public class AlbumController : ControllerBase
     {
         private IAlbumDetails _albumDetails;
-        private readonly ILogger _log;       
-        public AlbumController(ILogger<AlbumController> log, IAlbumDetails albumDetails)
+        private readonly ILogger _log;
+        private readonly IUnitOfWork _IUnitOfWork;
+        public AlbumController(ILogger<AlbumController> log, IAlbumDetails albumDetails, IUnitOfWork IUnitOfWork)
         {
             _log = log;           
-            _albumDetails = albumDetails;          
+            _albumDetails = albumDetails;
+            _IUnitOfWork = IUnitOfWork;
         }
         
         [HttpPost("GetAlbumDetails")]

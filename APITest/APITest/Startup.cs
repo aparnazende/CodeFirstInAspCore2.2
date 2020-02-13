@@ -46,6 +46,11 @@ namespace APITest
             });
             services.AddDbContext<DB_MusicContext>(options => options.UseSqlServer(AppSettingsViewModels.ConnectionString));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddScoped<DbContext, DB_MusicContext>();
+            
+            services.AddScoped<IDbFactory, DbFactory>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             services.AddScoped<IAlbumDetails, AlbumDetails>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         }

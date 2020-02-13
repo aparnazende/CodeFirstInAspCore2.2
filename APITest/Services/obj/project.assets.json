@@ -3788,11 +3788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Services\\Services.csproj",
+      "projectUniqueName": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Services\\Services.csproj",
+      "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\sachin\\.nuget\\packages\\",
-      "outputPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Services\\obj\\",
+      "outputPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3811,8 +3811,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj": {
-              "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj"
+            "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj": {
+              "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj"
             }
           }
         }

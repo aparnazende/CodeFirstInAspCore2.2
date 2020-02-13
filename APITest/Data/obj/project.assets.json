@@ -3788,11 +3788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj",
+      "projectUniqueName": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\Data.csproj",
+      "projectPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\sachin\\.nuget\\packages\\",
-      "outputPath": "G:\\PersonalGitHubWork\\DBFirstInASPCore2.2\\APITest\\Data\\obj\\",
+      "outputPath": "G:\\PersonalGitHubWork\\CodeFirstInAspCore2.2\\APITest\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
